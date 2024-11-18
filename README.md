@@ -1,4 +1,4 @@
-# React/Redux - Contact management app
+# ReContact management app
 
 A client side contact management web-application project that focuses on implementing React state management using Redux.js toolkit.
 
